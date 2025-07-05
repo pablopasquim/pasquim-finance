@@ -1,0 +1,37 @@
+{
+    "salario": 2500,
+    "fixas": [
+        {
+            "nome": "Luz",
+            "valor": 500.0,
+            "data": "2025-07-03"
+        }
+    ],
+    "variaveis": [
+        {
+            "nome": "Vestido incrivel",
+            "valor": 500.0,
+            "forma": "Cr\u00e9dito",
+            "data": "2025-07-03"
+        },
+        {
+            "nome": "aaaaaaaaa",
+            "valor": 0.0,
+            "forma": "Cr\u00e9dito",
+            "data": "2025-07-03"
+        },
+        {
+            "nome": "aaaaaaaaa",
+            "valor": 10000.0,
+            "forma": "Cr\u00e9dito",
+            "data": "2025-07-03"
+        }
+    ],
+    "parcelas": [],
+    "cartoes": {
+        "Raque": {
+            "limite": 600.02,
+            "gasto_atual": 0
+        }
+    }
+}
